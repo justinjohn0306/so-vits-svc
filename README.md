@@ -47,9 +47,7 @@ wget -P logs/44k/ https://huggingface.co/innnky/sovits_pretrained/resolve/main/s
 
 ```
 
-[//]: # (## colab one-click data set production, training script)
-
-[//]: # ([![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/justinjohn0306/so-vits-svc/blob/4.0-v2/Sovits4_0_v2_One_click_training_inference_script.ipynb;)
+**Training Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/so-vits-svc/blob/4.0-v2/Sovits4_0_v2_One_click_training_inference_script.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> and follow the instructions.
 
 The readme in the latter part is the same as 4.0, no change
 
