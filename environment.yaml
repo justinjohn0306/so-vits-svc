@@ -1,0 +1,35 @@
+name: econ
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - fvcore
+  - iopath
+  - bottler
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch
+  - torchvision
+  - fvcore
+  - iopath
+  - nvidiacub
+  - pyembree
+  - cupy
+  - cython
+  - pip
+   - Flask
+   - Flask_Cors
+   - gradio
+   - numpy==1.22.4
+   - pyworld==0.3.2
+   - scipy==1.7.3
+   - SoundFile==0.12.1
+   - tqdm
+   - scikit-maad
+   - praat-parselmouth
+   - onnx
+   - onnxsim
+   - onnxoptimizer
+   - fairseq==0.12.2
+   - librosa==0.8.1
