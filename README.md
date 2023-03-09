@@ -23,7 +23,7 @@ Singing voice conversion model, use [Content Vec](https://github.com/auspicious3
 + As for the old one or v2, you can try the following demo and the demo on the 4.0 branch to compare and decide
 + 4.0-v2 is the last version of sovits, there will be no more updates after that, sovits will be archived after the basic verification has no major bugs
 
-Online demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/ spaces/innnky/sovits4.0-v2)
+Online demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/innnky/sovits4.0-v2)
 
 ## Notice
 + The entire process of 4.0-v2 is the same as 4.0, and the environment is the same as 4.0. The preprocessed data and environment of 4.0 can be used directly
@@ -49,7 +49,7 @@ wget -P logs/44k/ https://huggingface.co/innnky/sovits_pretrained/resolve/main/s
 
 [//]: # (## colab one-click data set production, training script)
 
-[//]: # ([![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab .research.google.com/drive/19fxpo-ZoL_ShEUeZIZi6Di-YioWrEyhR#scrollTo=0gQcIZ8RsOkn&#41;)
+[//]: # ([![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/justinjohn0306/so-vits-svc/blob/4.0-v2/Sovits4_0_v2_One_click_training_inference_script.ipynb;)
 
 The readme in the latter part is the same as 4.0, no change
 
