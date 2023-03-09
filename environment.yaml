@@ -1,4 +1,4 @@
-name: econ
+name: sovits
 channels:
   - pytorch
   - nvidia
