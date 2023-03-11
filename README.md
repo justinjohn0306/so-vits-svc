@@ -30,7 +30,7 @@ Online demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%2
 ## Pre-downloaded model files
 + contentvec: [checkpoint_best_legacy_500.pt](https://ibm.box.com/s/z1wgl1stco8ffooyatzdwsqn2psd9lrr)
    + placed in the `hubert` directory
-+ Pre-training base model file: [G_0.pth](https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/G_0.pth) and [D_0.pth](https://huggingface.co/ innnky/sovits_pretrained/resolve/main/sovits4/D_0.pth)
++ Pre-training base model file: [G_0.pth](https://huggingface.co/justinjohn-03/so-vits-svc-4.0/resolve/main/G_0.pth) and [D_0.pth](https://huggingface.co/justinjohn-03/so-vits-svc-4.0/resolve/main/D_0.pth)
    + placed in the `logs/44k` directory
    + The pre-trained base model training data set includes Yunhao, Jishuang, Huiyu·Xing AI Paimeng, Lingdi Ningning, covering the common vocal range of male and female girls, which can be considered as a relatively common base model
 ```shell
@@ -39,8 +39,8 @@ Online demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%2
 http://obs.cstcloud.cn/share/obs/sankagenkeshi/checkpoint_best_legacy_500.pt
 # It can also be manually downloaded and placed in the hubert directory
 # G and D pre-training model:
-wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0/blob/main/G_0.pth
-wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0/blob/main/D_0.pth
+wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0/resolve/main/G_0.pth
+wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0/resolve/main/D_0.pth
 
 ```
 
