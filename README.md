@@ -39,13 +39,13 @@ Online demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%2
 http://obs.cstcloud.cn/share/obs/sankagenkeshi/checkpoint_best_legacy_500.pt
 # It can also be manually downloaded and placed in the hubert directory
 # G and D pre-training model:
-wget -P logs/44k/ https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/G_0.pth
-wget -P logs/44k/ https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/D_0.pth
+wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0/blob/main/G_0.pth
+wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0/blob/main/D_0.pth
 
 ```
 
 ## Colab one-click data set production and training script
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justinjohn0306/so-vits-svc/blob/4.0-v2/Sovits4_0_v2_One_click_training_inference_script.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justinjohn0306/so-vits-svc/blob/4.0-v2/Sovits4_0_One_click_training_inference_script.ipynb)
 
 ## Dataset preparation
 Just put the dataset into the dataset_raw directory with the following file structure
