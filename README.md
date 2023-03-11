@@ -45,7 +45,7 @@ wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0/blob/main
 ```
 
 ## Colab one-click data set production and training script
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justinjohn0306/so-vits-svc/blob/4.0-v2/Sovits4_0_One_click_training_inference_script.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justinjohn0306/so-vits-svc/blob/4.0/Sovits4_0_One_click_training_inference_script.ipynb)
 
 ## Dataset preparation
 Just put the dataset into the dataset_raw directory with the following file structure
