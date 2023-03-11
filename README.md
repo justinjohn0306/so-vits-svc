@@ -25,7 +25,7 @@ The singing voice conversion model extracts the voice features of the source aud
 + Added option 1: vc mode automatically predicts the pitch f0, that is, there is no need to manually input the transposition key when converting the voice, the male and female voices can be automatically converted, but only for voice conversion, the singing voice will be out of tune when converted in this mode
 + Added option 2: reduce timbre leakage through the kmeans clustering scheme, that is, make the timbre more like the target timbre
 
-Online demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/ spaces/innnky/sovits4)
+Online demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/innnky/sovits4)
 
 ## Pre-downloaded model files
 + contentvec: [checkpoint_best_legacy_500.pt](https://ibm.box.com/s/z1wgl1stco8ffooyatzdwsqn2psd9lrr)
